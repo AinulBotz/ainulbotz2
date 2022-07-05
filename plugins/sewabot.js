@@ -12,8 +12,25 @@ let handler = async (m, { conn }) => {
   title: `${await conn.getName(conn.user.jid)}`,
   description: ` *• 𝘀𝗲𝘄𝗮 𝗯𝗼𝘁 𝗶𝗻𝗶 & 𝘂𝗻𝗱𝗮𝗻𝗴 𝗸𝗲 𝗴𝗿𝘂𝗽 & 𝘂𝗽𝗴𝗿𝗮𝗱𝗲 𝗷𝗮𝗱𝗶 𝗺𝗲𝗺𝗯𝗲𝗿 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 •*
 
-cek katalog kami disini 『 https://sociabuzz.com/arietube/shop 』
+ *SEWA BOT*
+ 1minggu= 5.000
+ 2Minggu= 10.000
+ 3Minggu= 15.000
+ 4Minnggu= 20.000
+Permanent? Buat Sendiri Aja Botnya
 
+*BUAT BOT*
+1minggu= 5.000
+2minggu= 10.000
+3minggu= 15.000
+4Minggu= 20.000
+
+*UPGRADE TO PREMIUM*
+1Minggu= 2.000
+2Minggu= 4.000
+3Minggu= 6.000
+4Minggu= 8.000
+Permanent= 10.000
 jika sudah bayar langsung konfirmasi ke owner dibawah (sertakan screenshot)
 ☞𝑜𝑤𝑛𝑒𝑟 ❀wa.me/${owner[0]}✵
 
