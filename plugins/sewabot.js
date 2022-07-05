@@ -32,8 +32,14 @@ Permanent? Buat Sendiri Aja Botnya
 4Minggu= 8.000
 Permanent= 10.000
 
+*PEMBAYARAN*
+Dana : 085754202785
+Gopay : 08971724481
+Ovo : 085754202785
+*MAAF GA NERIMA VIA PULSA!*
+
 jika sudah bayar langsung konfirmasi ke owner dibawah (sertakan screenshot)
-☞𝑜𝑤𝑛𝑒𝑟 ❀wa.me/${owner[0]}✵
+☞𝑜𝑤𝑛𝑒𝑟 wa.me/${owner[0]}
 
 *Owner ${conn.user.name}*
 `,
