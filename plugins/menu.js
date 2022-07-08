@@ -163,10 +163,10 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    conn.sendHydrated(m.chat, text.trim(), 'Ⓟ AinulBotz | Ⓛ Bot', null, 'https://github.com/AinulBotz', 'Github', '', '', [
+    conn.sendHydrated(m.chat, text.trim(), 'Ⓟ 𝙿𝚛𝚎𝚖𝚒𝚞𝚖 | Ⓛ 𝙻𝚒𝚖𝚒𝚝', null, 'https://github.com/ainulbot', 'Github', '', '', [
       ['Donasi', '/donasi'],
       ['Sewa Bot', '/sewa'],
-      ['Owner', '/owner']
+      ['Rules', '/rules']
     ], m)
     /*let url = `https://telegra.ph/file/20b24c609e796b243d7b7.jpg`.trim()
     let res = await fetch(url)
@@ -180,8 +180,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedFooterText:'Ⓟ premium | Ⓛ limit',
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Website',
-                                    url: 'https://instagram.com/ainul_181'
+                                    displayText 'Github',
+                                    url: 'https://github.com/ainulbot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -195,8 +195,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Owner',
-                                    id: '/owner'
+                                    displayText: 'Rules',
+                                    id: '/rules'
                                 }
                             }]
                         }
